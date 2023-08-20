@@ -1,5 +1,24 @@
 [
     {
+        "id": 26,
+        "title": "The Holy Bible - 1611 Edition",
+        "author_fn": "",
+        "author_ln": "-",
+        "translator": "King James",
+        "publisher": "Hendrickson Publishers",
+        "pages": 1536,
+        "publication_year": 2010,
+        "original_publication_year": 1,
+        "tags": [
+            "Religion",
+            "Bible"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-56563-808-2",
+        "notes": null
+    },
+    {
         "id": 9,
         "title": "S.",
         "author_fn": "J.J.",
@@ -18,6 +37,25 @@
         "read": false,
         "reading": false,
         "isbn": "978-0-316-20164-3",
+        "notes": null
+    },
+    {
+        "id": 23,
+        "title": "The Boy in the Striped Pajamas",
+        "author_fn": "John",
+        "author_ln": "Boyne",
+        "translator": null,
+        "publisher": "David Fickling Books",
+        "pages": 216,
+        "publication_year": 2006,
+        "original_publication_year": 2006,
+        "tags": [
+            "YA",
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-385-75106-0",
         "notes": null
     },
     {
@@ -105,6 +143,26 @@
         "notes": null
     },
     {
+        "id": 33,
+        "title": "Harley Quinn: Vol. 1 Die Laughing",
+        "author_fn": "Amanda",
+        "author_ln": "Conner",
+        "translator": null,
+        "publisher": "DC Comics",
+        "pages": 172,
+        "publication_year": 2017,
+        "original_publication_year": 2017,
+        "tags": [
+            "Comics",
+            "DC",
+            "Harley-Quinn"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4012-6831-2",
+        "notes": null
+    },
+    {
         "id": 8,
         "title": "House of Leaves",
         "author_fn": "Mark Z.",
@@ -164,6 +222,47 @@
         "read": false,
         "reading": false,
         "isbn": "Unknown",
+        "notes": null
+    },
+    {
+        "id": 27,
+        "title": "The Princess Bride",
+        "author_fn": "William",
+        "author_ln": "Goldman",
+        "translator": null,
+        "publisher": "Houghton Mifflin Harcourt Publishing Company",
+        "pages": 392,
+        "publication_year": 2013,
+        "original_publication_year": 1973,
+        "tags": [
+            "Fantasy",
+            "Classics",
+            "Romance",
+            "Humour"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-328-94885-4",
+        "notes": null
+    },
+    {
+        "id": 30,
+        "title": "Five Little Indians",
+        "author_fn": "Michelle",
+        "author_ln": "Good",
+        "translator": null,
+        "publisher": "Harper Perennial",
+        "pages": 293,
+        "publication_year": 2020,
+        "original_publication_year": 2020,
+        "tags": [
+            "Historical",
+            "Canadian",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4434-5918-1",
         "notes": null
     },
     {
@@ -318,6 +417,26 @@
         "notes": null
     },
     {
+        "id": 34,
+        "title": "Harley Quinn: The Trials of Harley Quinn",
+        "author_fn": "Sam",
+        "author_ln": "Humphries",
+        "translator": null,
+        "publisher": "DC Comics",
+        "pages": 144,
+        "publication_year": 2019,
+        "original_publication_year": 2019,
+        "tags": [
+            "Comics",
+            "DC",
+            "Harley-Quinn"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4012-9191-4",
+        "notes": null
+    },
+    {
         "id": 16,
         "title": "We Have Always Lived in the Castle",
         "author_fn": "Shirley",
@@ -359,6 +478,85 @@
         "notes": null
     },
     {
+        "id": 32,
+        "title": "Harley Quinn: Preludes and Knock-Knock Jokes",
+        "author_fn": "Karl",
+        "author_ln": "Kesel",
+        "translator": null,
+        "publisher": "DC Comics",
+        "pages": 190,
+        "publication_year": 2007,
+        "original_publication_year": 2007,
+        "tags": [
+            "Comics",
+            "Harley-Quinn",
+            "DC"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4012-1657-3",
+        "notes": null
+    },
+    {
+        "id": 25,
+        "title": "Metamorphoses",
+        "author_fn": "",
+        "author_ln": "Ovid",
+        "translator": "Rolfe Humphries",
+        "publisher": "Indiana University Press",
+        "pages": 401,
+        "publication_year": 1983,
+        "original_publication_year": 8,
+        "tags": [
+            "Poetry",
+            "Classics",
+            "Mythology",
+            "Greek"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-253-20001-6",
+        "notes": null
+    },
+    {
+        "id": 29,
+        "title": "This Book is Full of Spiders",
+        "author_fn": "Jason",
+        "author_ln": "Pargin",
+        "translator": null,
+        "publisher": "Thomas Dunne Books",
+        "pages": 450,
+        "publication_year": 2012,
+        "original_publication_year": 2012,
+        "tags": [
+            "Humour",
+            "Horror"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-250-03665-0",
+        "notes": null
+    },
+    {
+        "id": 28,
+        "title": "What the Hell Did I Just Read",
+        "author_fn": "Jason",
+        "author_ln": "Pargin",
+        "translator": null,
+        "publisher": "St. Martin's Griffin",
+        "pages": 378,
+        "publication_year": 2021,
+        "original_publication_year": 2017,
+        "tags": [
+            "Humour",
+            "Horror"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-250-83053-1",
+        "notes": null
+    },
+    {
         "id": 5,
         "title": "Kaikeyi: a novel",
         "author_fn": "Vaishnavi",
@@ -376,6 +574,27 @@
         "reading": false,
         "isbn": "978-0-7595-5733-8",
         "notes": "Bought as gift for Ocean"
+    },
+    {
+        "id": 24,
+        "title": "Frankenstein",
+        "author_fn": "Mary",
+        "author_ln": "Shelley",
+        "translator": null,
+        "publisher": "Barnes & Noble",
+        "pages": 207,
+        "publication_year": 2015,
+        "original_publication_year": 1818,
+        "tags": [
+            "Science-Fiction",
+            "Horror",
+            "Classics",
+            "Gothic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4351-5962-4",
+        "notes": null
     },
     {
         "id": 7,
@@ -396,6 +615,26 @@
         "read": false,
         "reading": false,
         "isbn": "978-1-4000-7998-8",
+        "notes": null
+    },
+    {
+        "id": 31,
+        "title": "The Seven Deaths of Evelyn Hardcastle",
+        "author_fn": "Stuart",
+        "author_ln": "Turton",
+        "translator": null,
+        "publisher": "HarperCollins",
+        "pages": 435,
+        "publication_year": 2018,
+        "original_publication_year": 2018,
+        "tags": [
+            "Mystery",
+            "Thriller",
+            "Crime"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4434-5746-0",
         "notes": null
     },
     {
