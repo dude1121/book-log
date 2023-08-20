@@ -1,0 +1,10 @@
+Main Goal: Have a program that can log all my books
+
+Features:
+        - View all books and select a book to interact with
+        - Edit entries
+        - Add new entries
+        - Delete entries
+        - Mark reading progress
+        - GUI?
+        - Search for a book based on title, author, tags, etc.
