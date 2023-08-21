@@ -9,21 +9,25 @@ class App:
 
     def main_loop(self):
         while True:
-            print("Please select one of the following options:\n")
+            print("Please select one of the following options: (Enter 0 to exit)\n")
             print("1) Display all books.")
             print("2) Search for a book.")
             print("3) Add a new book.\n")
-            i = int_input("", 1, 3)
+            i = int_input("", 0, 3)
+            print("")
 
             match i:
                 case 1:
                     stage = self.display_all()
                 case 2:
                     stage = self.search()
-                case _:
+                case 3:
                     stage = self.add_book()
+                case _:
+                    stage = False
 
             if stage is False:
+                print("Exiting...")
                 break
 
     @staticmethod
@@ -103,11 +107,10 @@ class App:
                         Read: {read}
                         Reading: {reading}
                         ISBN: {isbn}
-                        Notes: {notes}
-
-                        Is this correct?          
+                        Notes: {notes}         
                     """
             )
+            print("Is this correct?")
 
             response = bool_input("")
             if response is True:
@@ -230,6 +233,9 @@ class App:
                 return
 
     def display_all(self) -> bool:
+        """
+        Displays a list of all books in database.
+        """
         data: list[dict] = get_db()
         books = []
         for d in data:
@@ -239,9 +245,9 @@ class App:
             print(f"{i}) {b}")
         print()  # Generate new line after last book entry
 
-        i = int_input("Select a book: (Enter 0 to exit) ", 0, len(books))
+        i = int_input("Select a book: (Enter 0 to return to main menu) ", 0, len(books))
         if i == 0:
-            return False
+            return True
         else:
             book = books[i - 1]
 
@@ -253,8 +259,19 @@ class App:
         pass
 
     def add_book(self) -> bool:
-        book = self.get_book_details()
-        db = get_db()
+        book: Book = self.get_book_details()
+        db: list[dict] = get_db()
+
+        for d in db:
+            if d.get("isbn") == book.isbn:
+                i = bool_input(
+                    f"{book.title} already in database. Would you still like to proceed? "
+                )
+                if i is False:
+                    print("Returning to Main Menu...")
+                    return True
+                break
+
         db.append(book.to_dict())
         db.sort(key=lambda x: x["title"].lower())
         db.sort(key=lambda x: x["author_ln"].lower())
