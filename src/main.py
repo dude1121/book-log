@@ -195,7 +195,7 @@ class App:
                             d["original_publication_year"] = og_val
                     update_db(db)
                 case "tag" | "tags":
-                    val = list_input("Input new tags: ")
+                    val = list_input("Input new tags: ", " ")
                     db = get_db()
                     for d in db:
                         if d.get("isbn") == book.isbn:

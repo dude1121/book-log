@@ -40,6 +40,385 @@
         "notes": null
     },
     {
+        "id": 118,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author_fn": "Douglas",
+        "author_ln": "Adams",
+        "translator": null,
+        "publisher": "PAN Books",
+        "pages": 732,
+        "publication_year": 2017,
+        "original_publication_year": 1979,
+        "tags": [
+            "Science-Fiction",
+            "Humour"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-1509852796",
+        "notes": null
+    },
+    {
+        "id": 149,
+        "title": "Watership Down",
+        "author_fn": "Richard",
+        "author_ln": "Adams",
+        "translator": null,
+        "publisher": "Penguin",
+        "pages": 478,
+        "publication_year": 1984,
+        "original_publication_year": 1972,
+        "tags": [
+            "Classics",
+            "Adventure",
+            "Fantasy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-003958-9",
+        "notes": null
+    },
+    {
+        "id": 95,
+        "title": "Friday Black",
+        "author_fn": "Nana Kwame",
+        "author_ln": "Adjei-Brenyah",
+        "translator": null,
+        "publisher": "Mariner",
+        "pages": 194,
+        "publication_year": 2018,
+        "original_publication_year": 2018,
+        "tags": [
+            "Short-Stories",
+            "Humour"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-328-91124-7",
+        "notes": null
+    },
+    {
+        "id": 80,
+        "title": "Aesop's Fables",
+        "author_fn": "",
+        "author_ln": "Aesop",
+        "translator": "Laura Gibbs",
+        "publisher": "Oxford University Press",
+        "pages": 306,
+        "publication_year": 2008,
+        "original_publication_year": 1484,
+        "tags": [
+            "Fables",
+            "History",
+            "Short-Stories"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-954075-4",
+        "notes": null
+    },
+    {
+        "id": 172,
+        "title": "The Divine Comedy",
+        "author_fn": "Dante",
+        "author_ln": "Alighieri",
+        "translator": "John Ciardi",
+        "publisher": "New American Library",
+        "pages": 895,
+        "publication_year": 2003,
+        "original_publication_year": 1321,
+        "tags": [
+            "Classics",
+            "Poetry",
+            "Epic",
+            "Religion",
+            "Philosophy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-451-20863-7",
+        "notes": null
+    },
+    {
+        "id": 98,
+        "title": "Red Famine",
+        "author_fn": "Anne",
+        "author_ln": "Applebaum",
+        "translator": null,
+        "publisher": "Anchor Books",
+        "pages": 544,
+        "publication_year": 2017,
+        "original_publication_year": 2017,
+        "tags": [
+            "History",
+            "Non-Fiction",
+            "Russian"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8041-7088-8",
+        "notes": null
+    },
+    {
+        "id": 198,
+        "title": "The Nicomachean Ethics",
+        "author_fn": "",
+        "author_ln": "Aristotle",
+        "translator": "J. A. K. Thomson",
+        "publisher": "Penguin Classics",
+        "pages": 329,
+        "publication_year": 2004,
+        "original_publication_year": 1,
+        "tags": [
+            "Philosophy",
+            "Ethics",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-140-44949-5",
+        "notes": null
+    },
+    {
+        "id": 52,
+        "title": "Foundation",
+        "author_fn": "Isaac",
+        "author_ln": "Asimov",
+        "translator": null,
+        "publisher": "Bantam Dell",
+        "pages": 296,
+        "publication_year": 2004,
+        "original_publication_year": 1951,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Space-Opera"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-29335-4",
+        "notes": null
+    },
+    {
+        "id": 53,
+        "title": "Foundation and Empire",
+        "author_fn": "Isaac",
+        "author_ln": "Asimov",
+        "translator": null,
+        "publisher": "Bantam Dell",
+        "pages": 282,
+        "publication_year": 2004,
+        "original_publication_year": 1952,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Space-Opera"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-29337-0",
+        "notes": null
+    },
+    {
+        "id": 194,
+        "title": "I, Robot",
+        "author_fn": "Isaac",
+        "author_ln": "Asimov",
+        "translator": null,
+        "publisher": "Del Rey",
+        "pages": 224,
+        "publication_year": 2008,
+        "original_publication_year": 1950,
+        "tags": [
+            "Science-Fiction",
+            "Robots",
+            "Philosophical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-38256-3",
+        "notes": null
+    },
+    {
+        "id": 54,
+        "title": "Second Foundation",
+        "author_fn": "Isaac",
+        "author_ln": "Asimov",
+        "translator": null,
+        "publisher": "Del Rey",
+        "pages": 256,
+        "publication_year": 2017,
+        "original_publication_year": 1953,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Space-Opera"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-29336-4",
+        "notes": null
+    },
+    {
+        "id": 164,
+        "title": "The Handmaid's Tale",
+        "author_fn": "Margaret",
+        "author_ln": "Atwood",
+        "translator": null,
+        "publisher": "McClelland & Stewart",
+        "pages": 358,
+        "publication_year": 2019,
+        "original_publication_year": 1985,
+        "tags": [
+            "Dystopian",
+            "Classics",
+            "Science-Fiction",
+            "Feminism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-7710-0879-5",
+        "notes": null
+    },
+    {
+        "id": 161,
+        "title": "Meditations",
+        "author_fn": "Marcus",
+        "author_ln": "Aurelius",
+        "translator": "Gregory Hays",
+        "publisher": "Modern Library",
+        "pages": 191,
+        "publication_year": 2003,
+        "original_publication_year": 180,
+        "tags": [
+            "Philosophy",
+            "Non-Fiction",
+            "Classics",
+            "Stoicism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8129-6825-5",
+        "notes": null
+    },
+    {
+        "id": 197,
+        "title": "Pride and Prejudice",
+        "author_fn": "Jane",
+        "author_ln": "Austen",
+        "translator": null,
+        "publisher": "Penguin Classics",
+        "pages": 400,
+        "publication_year": 2014,
+        "original_publication_year": 1813,
+        "tags": [
+            "Romance",
+            "Classics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-141-43951-8",
+        "notes": null
+    },
+    {
+        "id": 111,
+        "title": "Consider Phlebas",
+        "author_fn": "Iain M.",
+        "author_ln": "Banks",
+        "translator": null,
+        "publisher": "Orbit Books",
+        "pages": 471,
+        "publication_year": 1990,
+        "original_publication_year": 1987,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-85723-138-0",
+        "notes": null
+    },
+    {
+        "id": 69,
+        "title": "S.P.Q.R.: A History of Ancient Rome",
+        "author_fn": "Mary",
+        "author_ln": "Beard",
+        "translator": null,
+        "publisher": "Liveright Publishing Corporation",
+        "pages": 606,
+        "publication_year": 2015,
+        "original_publication_year": 2015,
+        "tags": [
+            "History",
+            "Non-Fiction",
+            "Rome"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-63149-222-8",
+        "notes": null
+    },
+    {
+        "id": 126,
+        "title": "The Raft",
+        "author_fn": "S.A.",
+        "author_ln": "Bodeen",
+        "translator": null,
+        "publisher": "Feiwel and Friends",
+        "pages": 231,
+        "publication_year": 2012,
+        "original_publication_year": 2012,
+        "tags": [
+            "YA",
+            "Adventure"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-312-65010-0",
+        "notes": null
+    },
+    {
+        "id": 115,
+        "title": "Collected Fictions",
+        "author_fn": "Jorge Luis",
+        "author_ln": "Borges",
+        "translator": "Andrew Hurley",
+        "publisher": "Penguin Classics",
+        "pages": 565,
+        "publication_year": 1998,
+        "original_publication_year": 1975,
+        "tags": [
+            "Short-Stories",
+            "Fantasy",
+            "Magical-Realism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-028680-9",
+        "notes": null
+    },
+    {
+        "id": 163,
+        "title": "The Orenda",
+        "author_fn": "Joseph",
+        "author_ln": "Boyden",
+        "translator": null,
+        "publisher": "Penguin",
+        "pages": 490,
+        "publication_year": 2013,
+        "original_publication_year": 2013,
+        "tags": [
+            "Historical",
+            "Literary",
+            "Canadian"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-317416-5",
+        "notes": null
+    },
+    {
         "id": 23,
         "title": "The Boy in the Striped Pajamas",
         "author_fn": "John",
@@ -57,6 +436,64 @@
         "reading": false,
         "isbn": "978-0-385-75106-0",
         "notes": null
+    },
+    {
+        "id": 174,
+        "title": "Fahrenheit 451",
+        "author_fn": "Ray",
+        "author_ln": "Bradbury",
+        "translator": null,
+        "publisher": "Simon & Schuster",
+        "pages": 250,
+        "publication_year": 2013,
+        "original_publication_year": 1951,
+        "tags": [
+            "Science-Fiction",
+            "Dystopia"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-1-4516-7331-9",
+        "notes": null
+    },
+    {
+        "id": 173,
+        "title": "The Martian Chronicles",
+        "author_fn": "Ray",
+        "author_ln": "Bradbury",
+        "translator": null,
+        "publisher": "Simon & Schuster",
+        "pages": 241,
+        "publication_year": 2019,
+        "original_publication_year": 1945,
+        "tags": [
+            "Science-Fiction",
+            "Short-Stories",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4516-7819-2",
+        "notes": null
+    },
+    {
+        "id": 102,
+        "title": "Jane Eyre",
+        "author_fn": "Charlotte",
+        "author_ln": "Bronte",
+        "translator": null,
+        "publisher": "Signet Classics",
+        "pages": 461,
+        "publication_year": 1960,
+        "original_publication_year": 1847,
+        "tags": [
+            "Classics",
+            "Romance"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "0",
+        "notes": "No ISBN"
     },
     {
         "id": 10,
@@ -123,6 +560,182 @@
         "notes": null
     },
     {
+        "id": 185,
+        "title": "Parable of the Sower",
+        "author_fn": "Octavia E.",
+        "author_ln": "Butler",
+        "translator": null,
+        "publisher": "Grand Central Publishing",
+        "pages": 345,
+        "publication_year": 2007,
+        "original_publication_year": 1993,
+        "tags": [
+            "Science-Fiction",
+            "Dystopia",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-446-67550-5",
+        "notes": null
+    },
+    {
+        "id": 202,
+        "title": "The Myth of Sisyphus",
+        "author_fn": "Albert",
+        "author_ln": "Camus",
+        "translator": "Justin O'Brien",
+        "publisher": "Vintage",
+        "pages": 138,
+        "publication_year": 1983,
+        "original_publication_year": 1942,
+        "tags": [
+            "Philosphy",
+            "Absurdism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-525-56445-4",
+        "notes": null
+    },
+    {
+        "id": 203,
+        "title": "The Stranger",
+        "author_fn": "Albert",
+        "author_ln": "Camus",
+        "translator": "Matthew Ward",
+        "publisher": "Vintage",
+        "pages": 123,
+        "publication_year": 1989,
+        "original_publication_year": 1942,
+        "tags": [
+            "Philosophy",
+            "Absurdism"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-679-72020-1",
+        "notes": null
+    },
+    {
+        "id": 200,
+        "title": "Ender's Game",
+        "author_fn": "Orson Scott",
+        "author_ln": "Card",
+        "translator": null,
+        "publisher": "Tor",
+        "pages": 324,
+        "publication_year": 1991,
+        "original_publication_year": 1977,
+        "tags": [
+            "Science-Fiction",
+            "YA"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8125-5070-2",
+        "notes": null
+    },
+    {
+        "id": 45,
+        "title": "The Alienist",
+        "author_fn": "Caleb",
+        "author_ln": "Carr",
+        "translator": null,
+        "publisher": "Random House",
+        "pages": 487,
+        "publication_year": 2017,
+        "original_publication_year": 1994,
+        "tags": [
+            "Historical",
+            "Thriller",
+            "Crime"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-525-51027-7",
+        "notes": null
+    },
+    {
+        "id": 167,
+        "title": "Don Quixote",
+        "author_fn": "Miguel de",
+        "author_ln": "Cervantes",
+        "translator": "Edith Grossman",
+        "publisher": "HarperCollins",
+        "pages": 940,
+        "publication_year": 2003,
+        "original_publication_year": 1615,
+        "tags": [
+            "Classics",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-06-093434-7",
+        "notes": null
+    },
+    {
+        "id": 110,
+        "title": "Stories of Your Life and Others",
+        "author_fn": "Ted",
+        "author_ln": "Chang",
+        "translator": null,
+        "publisher": "Vintage",
+        "pages": 281,
+        "publication_year": 2010,
+        "original_publication_year": 2002,
+        "tags": [
+            "Short-Stories",
+            "Science-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-101-97212-0",
+        "notes": null
+    },
+    {
+        "id": 166,
+        "title": "2001: A Space Odyssey",
+        "author_fn": "Arthur C.",
+        "author_ln": "Clarke",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 297,
+        "publication_year": 2018,
+        "original_publication_year": 1968,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Space"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-451-45799-8",
+        "notes": null
+    },
+    {
+        "id": 178,
+        "title": "Childhood's End",
+        "author_fn": "Arthur C.",
+        "author_ln": "Clarke",
+        "translator": null,
+        "publisher": "Del Rey",
+        "pages": 212,
+        "publication_year": 1990,
+        "original_publication_year": 1954,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Dystopia",
+            "Aliens"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-345-34795-4",
+        "notes": "'"
+    },
+    {
         "id": 20,
         "title": "The Alchemist",
         "author_fn": "Paulo",
@@ -163,6 +776,45 @@
         "notes": null
     },
     {
+        "id": 103,
+        "title": "Jurassic Park",
+        "author_fn": "Michael",
+        "author_ln": "Crichton",
+        "translator": null,
+        "publisher": "Ballantine Books",
+        "pages": 448,
+        "publication_year": 2015,
+        "original_publication_year": 1990,
+        "tags": [
+            "Science-Fiction",
+            "Dinosaurs"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-345-53898-7",
+        "notes": null
+    },
+    {
+        "id": 59,
+        "title": "The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire",
+        "author_fn": "William",
+        "author_ln": "Dalrymple",
+        "translator": null,
+        "publisher": "Bloomsbury Publishing",
+        "pages": 522,
+        "publication_year": 2019,
+        "original_publication_year": 2019,
+        "tags": [
+            "History",
+            "Non-Fiction",
+            "Politics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-63557-395-4",
+        "notes": null
+    },
+    {
         "id": 8,
         "title": "House of Leaves",
         "author_fn": "Mark Z.",
@@ -181,6 +833,164 @@
         "read": true,
         "reading": false,
         "isbn": "978-0-375-70376-8",
+        "notes": null
+    },
+    {
+        "id": 65,
+        "title": "The Origin of Species",
+        "author_fn": "Charles",
+        "author_ln": "Darwin",
+        "translator": null,
+        "publisher": "Signet Classics",
+        "pages": 545,
+        "publication_year": 2003,
+        "original_publication_year": 1859,
+        "tags": [
+            "Science",
+            "Non-Fiction",
+            "Biology",
+            "Evolution"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-451-52906-0",
+        "notes": null
+    },
+    {
+        "id": 196,
+        "title": "The Selfish Gene",
+        "author_fn": "Richard",
+        "author_ln": "Dawkins",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 464,
+        "publication_year": 2016,
+        "original_publication_year": 1976,
+        "tags": [
+            "Non-Fiction",
+            "Science",
+            "Biology",
+            "Evolution"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-19-878860-7",
+        "notes": null
+    },
+    {
+        "id": 64,
+        "title": "Discourse on Method and Meditations on First Philosophy",
+        "author_fn": "Ren\u00e9",
+        "author_ln": "Descartes",
+        "translator": "Donald A. Cress",
+        "publisher": "Hackett Publishing Company Inc.",
+        "pages": 103,
+        "publication_year": 1998,
+        "original_publication_year": 1637,
+        "tags": [
+            "Philosophy",
+            "French"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-87220-420-1",
+        "notes": null
+    },
+    {
+        "id": 153,
+        "title": "Guns, Germs, and Steel",
+        "author_fn": "Jared",
+        "author_ln": "Diamond",
+        "translator": null,
+        "publisher": "W.W. Norton & Company",
+        "pages": 494,
+        "publication_year": 2017,
+        "original_publication_year": 1997,
+        "tags": [
+            "History",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-393-35432-4",
+        "notes": null
+    },
+    {
+        "id": 99,
+        "title": "Do Androids Dream of Electric Sheep",
+        "author_fn": "Philip K.",
+        "author_ln": "Dick",
+        "translator": null,
+        "publisher": "Del Rey",
+        "pages": 224,
+        "publication_year": 2017,
+        "original_publication_year": 1968,
+        "tags": [
+            "Science-Fiction",
+            "Classics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-345-40447-3",
+        "notes": null
+    },
+    {
+        "id": 155,
+        "title": "The Man in the High Castle",
+        "author_fn": "Philip K.",
+        "author_ln": "Dick",
+        "translator": null,
+        "publisher": "Mariner",
+        "pages": 274,
+        "publication_year": 2011,
+        "original_publication_year": 1962,
+        "tags": [
+            "Science-Fiction",
+            "Alternate-History",
+            "Historical",
+            "Classics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-547-57248-2",
+        "notes": null
+    },
+    {
+        "id": 106,
+        "title": "A Tale of Two Cities",
+        "author_fn": "Charles",
+        "author_ln": "Dickens",
+        "translator": null,
+        "publisher": "Vintage Classics",
+        "pages": 380,
+        "publication_year": 1990,
+        "original_publication_year": 1859,
+        "tags": [
+            "Classics",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-679-72965-5",
+        "notes": null
+    },
+    {
+        "id": 176,
+        "title": "These Shallow Graves",
+        "author_fn": "Jennifer",
+        "author_ln": "Donnelly",
+        "translator": null,
+        "publisher": "Delacorte Press",
+        "pages": 487,
+        "publication_year": 2015,
+        "original_publication_year": 2015,
+        "tags": [
+            "YA",
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-385-73765-4",
         "notes": null
     },
     {
@@ -203,6 +1013,149 @@
         "notes": ""
     },
     {
+        "id": 43,
+        "title": "Demons",
+        "author_fn": "Fyodor",
+        "author_ln": "Dostoevsky",
+        "translator": "Richard Pevear & Larissa Volokhonsky",
+        "publisher": "Vintage Classics",
+        "pages": 733,
+        "publication_year": 1994,
+        "original_publication_year": 1872,
+        "tags": [
+            "Classics",
+            "Russian",
+            "Literary",
+            "Philosophical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-679-73451-2",
+        "notes": null
+    },
+    {
+        "id": 46,
+        "title": "Notes from Underground",
+        "author_fn": "Fyodor",
+        "author_ln": "Dostoevsky",
+        "translator": "Richard Pevear & Larissa Volokhonsky",
+        "publisher": "Vintage Classics",
+        "pages": 136,
+        "publication_year": 1993,
+        "original_publication_year": 1864,
+        "tags": [
+            "Classics",
+            "Russian",
+            "Philosophical",
+            "Existentialism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-679-73452-9",
+        "notes": "Started reading, did not finish."
+    },
+    {
+        "id": 44,
+        "title": "The Brothers Karamazov",
+        "author_fn": "Fyodor",
+        "author_ln": "Dostoevsky",
+        "translator": "Richard Pevear & Larissa Volokhonsky",
+        "publisher": "Farrar, Straus and Giroux",
+        "pages": 795,
+        "publication_year": 1990,
+        "original_publication_year": 1880,
+        "tags": [
+            "Classics",
+            "Russian",
+            "Philosophical",
+            "Literary"
+        ],
+        "read": false,
+        "reading": true,
+        "isbn": "978-0-374-52837-9",
+        "notes": null
+    },
+    {
+        "id": 47,
+        "title": "The Idiot",
+        "author_fn": "Fyodor",
+        "author_ln": "Dostoevsky",
+        "translator": "Richard Pevear & Larissa Volokhonsky",
+        "publisher": "Vintage Classics",
+        "pages": 633,
+        "publication_year": 2001,
+        "original_publication_year": 1869,
+        "tags": [
+            "Classics",
+            "Russian",
+            "Literary",
+            "Philosophical"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-375-70224-2",
+        "notes": null
+    },
+    {
+        "id": 35,
+        "title": "The Original Illustrated Sherlock Holmes",
+        "author_fn": "Sir Arthur Conan",
+        "author_ln": "Doyle",
+        "translator": null,
+        "publisher": "Castle",
+        "pages": 636,
+        "publication_year": 1905,
+        "original_publication_year": 1905,
+        "tags": [
+            "Mystery",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-89009-057-2",
+        "notes": null
+    },
+    {
+        "id": 130,
+        "title": "The Plover",
+        "author_fn": "Brian",
+        "author_ln": "Doyle",
+        "translator": null,
+        "publisher": "Thomas Dunne Books",
+        "pages": 311,
+        "publication_year": 2014,
+        "original_publication_year": 2014,
+        "tags": [
+            "Magical-Realism",
+            "Literary",
+            "Contemporary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-250-03477-9",
+        "notes": null
+    },
+    {
+        "id": 101,
+        "title": "The Count of Monte Cristo",
+        "author_fn": "Alexandre",
+        "author_ln": "Dumas",
+        "translator": "Unknown",
+        "publisher": "Signet Classics",
+        "pages": 509,
+        "publication_year": 2005,
+        "original_publication_year": 1846,
+        "tags": [
+            "Classics",
+            "Adventure",
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-451-52970-1",
+        "notes": "Abridged edition"
+    },
+    {
         "id": 3,
         "title": "The Three Musketeers",
         "author_fn": "Alexandre",
@@ -222,6 +1175,267 @@
         "read": false,
         "reading": false,
         "isbn": "Unknown",
+        "notes": null
+    },
+    {
+        "id": 133,
+        "title": "Como Agua para Chocolate",
+        "author_fn": "Laura",
+        "author_ln": "Esquivel",
+        "translator": null,
+        "publisher": "Vintage Espa\u00f1ol",
+        "pages": 248,
+        "publication_year": 1992,
+        "original_publication_year": 1989,
+        "tags": [
+            "Magical-Realism",
+            "Romance",
+            "Historical",
+            "Spanish"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-385-72123-3",
+        "notes": null
+    },
+    {
+        "id": 105,
+        "title": "Cuba: An American History",
+        "author_fn": "Ada",
+        "author_ln": "Ferrer",
+        "translator": null,
+        "publisher": "Scribner",
+        "pages": 560,
+        "publication_year": 2022,
+        "original_publication_year": 2021,
+        "tags": [
+            "History",
+            "Cuban",
+            "Non-Fiction",
+            "American"
+        ],
+        "read": false,
+        "reading": true,
+        "isbn": "978-1-5011-5456-0",
+        "notes": null
+    },
+    {
+        "id": 104,
+        "title": "Capitalist Realism",
+        "author_fn": "Mark",
+        "author_ln": "Fisher",
+        "translator": null,
+        "publisher": "zer0 Books",
+        "pages": 89,
+        "publication_year": 2022,
+        "original_publication_year": 2008,
+        "tags": [
+            "Non-Fiction",
+            "Socialism",
+            "Politics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-80341-430-0",
+        "notes": null
+    },
+    {
+        "id": 151,
+        "title": "The Great Gatsby",
+        "author_fn": "F. Scott",
+        "author_ln": "Fitzgerald",
+        "translator": null,
+        "publisher": "Arcturus",
+        "pages": 144,
+        "publication_year": 2020,
+        "original_publication_year": 1925,
+        "tags": [
+            "Classics",
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-78599-613-9",
+        "notes": null
+    },
+    {
+        "id": 169,
+        "title": "The Russian Revolution",
+        "author_fn": "Sheila",
+        "author_ln": "Fitzpatrick",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 224,
+        "publication_year": 2008,
+        "original_publication_year": 2008,
+        "tags": [
+            "Non-Fiction",
+            "Russia",
+            "History"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-923767-8",
+        "notes": null
+    },
+    {
+        "id": 184,
+        "title": "Gone Girl",
+        "author_fn": "Gillian",
+        "author_ln": "Flynn",
+        "translator": null,
+        "publisher": "Broadway Books",
+        "pages": 422,
+        "publication_year": 2014,
+        "original_publication_year": 2012,
+        "tags": [
+            "Mystery",
+            "Thriller",
+            "Crime"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-307-58837-1",
+        "notes": null
+    },
+    {
+        "id": 152,
+        "title": "The Pillars of the Earth",
+        "author_fn": "Ken",
+        "author_ln": "Follett",
+        "translator": null,
+        "publisher": "New American Library",
+        "pages": 973,
+        "publication_year": 2007,
+        "original_publication_year": 1989,
+        "tags": [
+            "Historical",
+            "Fantasy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-451-22524-5",
+        "notes": null
+    },
+    {
+        "id": 148,
+        "title": "The Diary of a Young Girl",
+        "author_fn": "Anne",
+        "author_ln": "Frank",
+        "translator": "Susan Massotty",
+        "publisher": "Penguin",
+        "pages": 339,
+        "publication_year": 1997,
+        "original_publication_year": 1991,
+        "tags": [
+            "History",
+            "Non-Fiction",
+            "WWII"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-026473-6",
+        "notes": null
+    },
+    {
+        "id": 117,
+        "title": "The Silk Roads: A New History of the World",
+        "author_fn": "Peter",
+        "author_ln": "Frankopan",
+        "translator": null,
+        "publisher": "Vintage",
+        "pages": 647,
+        "publication_year": 2017,
+        "original_publication_year": 2015,
+        "tags": [
+            "History",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-101-91237-9",
+        "notes": null
+    },
+    {
+        "id": 58,
+        "title": "The Nonsense Factory: The Making and Breaking of the American Legal System",
+        "author_fn": "Bruce Cannon",
+        "author_ln": "Gibney",
+        "translator": null,
+        "publisher": "Hachette Books",
+        "pages": 504,
+        "publication_year": 2019,
+        "original_publication_year": 2019,
+        "tags": [
+            "Non-Fiction",
+            "Politics",
+            "Law",
+            "History"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-316-47526-6",
+        "notes": null
+    },
+    {
+        "id": 137,
+        "title": "Neuromancer",
+        "author_fn": "William",
+        "author_ln": "Gibson",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 319,
+        "publication_year": 2018,
+        "original_publication_year": 1984,
+        "tags": [
+            "Science-Fiction",
+            "Cyberpunk",
+            "Classics",
+            "Dystopian"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-441-56959-5",
+        "notes": null
+    },
+    {
+        "id": 125,
+        "title": "Chaos: Making a New Science",
+        "author_fn": "James",
+        "author_ln": "Gleick",
+        "translator": null,
+        "publisher": "Penguin Group",
+        "pages": 360,
+        "publication_year": 2008,
+        "original_publication_year": 1987,
+        "tags": [
+            "Non-Fiction",
+            "Science",
+            "Mathematics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-311345-4",
+        "notes": null
+    },
+    {
+        "id": 84,
+        "title": "Lord of the Flies",
+        "author_fn": "William",
+        "author_ln": "Golding",
+        "translator": null,
+        "publisher": "Faber and Faber",
+        "pages": 225,
+        "publication_year": 1954,
+        "original_publication_year": 1954,
+        "tags": [
+            "YA",
+            "Classics",
+            "Literary"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-571-08483-8",
         "notes": null
     },
     {
@@ -263,6 +1477,27 @@
         "read": false,
         "reading": false,
         "isbn": "978-1-4434-5918-1",
+        "notes": null
+    },
+    {
+        "id": 134,
+        "title": "Wonderful Life: The Burgess Shale and the Nature of History",
+        "author_fn": "Stephen Jay",
+        "author_ln": "Gould",
+        "translator": null,
+        "publisher": "W.W. Norton & Company",
+        "pages": 347,
+        "publication_year": 2007,
+        "original_publication_year": 1989,
+        "tags": [
+            "Non-Fiction",
+            "Evolution",
+            "Science",
+            "Biology"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-393-30700-9",
         "notes": null
     },
     {
@@ -308,6 +1543,164 @@
         "notes": null
     },
     {
+        "id": 160,
+        "title": "Free Will",
+        "author_fn": "Sam",
+        "author_ln": "Harris",
+        "translator": null,
+        "publisher": "Free Press",
+        "pages": 83,
+        "publication_year": 2012,
+        "original_publication_year": 2012,
+        "tags": [
+            "Philosophy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4516-8340-0",
+        "notes": null
+    },
+    {
+        "id": 120,
+        "title": "A Brief History of Time",
+        "author_fn": "Stephen",
+        "author_ln": "Hawking",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 212,
+        "publication_year": 1998,
+        "original_publication_year": 1988,
+        "tags": [
+            "Science",
+            "Non-Fiction",
+            "Physics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-38016-3",
+        "notes": null
+    },
+    {
+        "id": 119,
+        "title": "The Grand Design",
+        "author_fn": "Stephen",
+        "author_ln": "Hawking",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 198,
+        "publication_year": 2010,
+        "original_publication_year": 2010,
+        "tags": [
+            "Science",
+            "Non-Fiction",
+            "Physics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-80537-6",
+        "notes": null
+    },
+    {
+        "id": 76,
+        "title": "Starship Troopers",
+        "author_fn": "Robert A.",
+        "author_ln": "Heinlein",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 340,
+        "publication_year": 2010,
+        "original_publication_year": 1959,
+        "tags": [
+            "Science-Fiction",
+            "War",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-441-78358-8",
+        "notes": null
+    },
+    {
+        "id": 77,
+        "title": "Stranger in a Strange Land",
+        "author_fn": "Robert A.",
+        "author_ln": "Heinlein",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 600,
+        "publication_year": 2018,
+        "original_publication_year": 1961,
+        "tags": [
+            "Science-Fiction",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-984-80278-1",
+        "notes": null
+    },
+    {
+        "id": 121,
+        "title": "Catch-22",
+        "author_fn": "Joseph",
+        "author_ln": "Heller",
+        "translator": null,
+        "publisher": "Simon & Schuster",
+        "pages": 519,
+        "publication_year": 2011,
+        "original_publication_year": 1955,
+        "tags": [
+            "Classics",
+            "War",
+            "Humour",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4516-2665-0",
+        "notes": null
+    },
+    {
+        "id": 75,
+        "title": "Chapterhouse: Dune",
+        "author_fn": "Frank",
+        "author_ln": "Herbert",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 609,
+        "publication_year": 2019,
+        "original_publication_year": 1985,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-593-09827-1",
+        "notes": null
+    },
+    {
+        "id": 72,
+        "title": "Children of Dune",
+        "author_fn": "Frank",
+        "author_ln": "Herbert",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 605,
+        "publication_year": 2019,
+        "original_publication_year": 1976,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera",
+            "Fantasy"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-593-09824-0",
+        "notes": null
+    },
+    {
         "id": 18,
         "title": "Dune",
         "author_fn": "Frank",
@@ -328,6 +1721,86 @@
         "notes": "Hardcover premium edition"
     },
     {
+        "id": 70,
+        "title": "Dune",
+        "author_fn": "Frank",
+        "author_ln": "Herbert",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 884,
+        "publication_year": 2010,
+        "original_publication_year": 1965,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera",
+            "Fantasy"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-441-17271-9",
+        "notes": "Paperback copy"
+    },
+    {
+        "id": 71,
+        "title": "Dune: Messiah",
+        "author_fn": "Frank",
+        "author_ln": "Herbert",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 336,
+        "publication_year": 2019,
+        "original_publication_year": 1969,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera",
+            "Fantasy"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-593-09823-3",
+        "notes": null
+    },
+    {
+        "id": 73,
+        "title": "God Emperor of Dune",
+        "author_fn": "Frank",
+        "author_ln": "Herbert",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 587,
+        "publication_year": 2019,
+        "original_publication_year": 1981,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera",
+            "Classics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-593-09825-7",
+        "notes": null
+    },
+    {
+        "id": 74,
+        "title": "Heretics of Dune",
+        "author_fn": "Frank",
+        "author_ln": "Herbert",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 669,
+        "publication_year": 2019,
+        "original_publication_year": 1984,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-593-09826-4",
+        "notes": null
+    },
+    {
         "id": 22,
         "title": "The Histories",
         "author_fn": "",
@@ -346,6 +1819,67 @@
         "read": false,
         "reading": false,
         "isbn": "978-0-14-310754-5",
+        "notes": null
+    },
+    {
+        "id": 79,
+        "title": "Theogony and Works and Days",
+        "author_fn": "",
+        "author_ln": "Hesiod",
+        "translator": "M. L. West",
+        "publisher": "Oxford University Press",
+        "pages": 79,
+        "publication_year": 2008,
+        "original_publication_year": 1,
+        "tags": [
+            "Greek",
+            "History",
+            "Mythology"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-953831-7",
+        "notes": null
+    },
+    {
+        "id": 116,
+        "title": "Prince of Thieves",
+        "author_fn": "Chuck",
+        "author_ln": "Hogan",
+        "translator": null,
+        "publisher": "Scribner",
+        "pages": 364,
+        "publication_year": 2007,
+        "original_publication_year": 2004,
+        "tags": [
+            "Crime",
+            "Thriller",
+            "Mystery"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4165-5490-5",
+        "notes": null
+    },
+    {
+        "id": 114,
+        "title": "Dominion: How the Christian Revolution Remade the World",
+        "author_fn": "Tom",
+        "author_ln": "Holland",
+        "translator": null,
+        "publisher": "Basic Books",
+        "pages": 612,
+        "publication_year": 2021,
+        "original_publication_year": 2019,
+        "tags": [
+            "Non-Fiction",
+            "History",
+            "Religion",
+            "Christianity"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-5416-7559-9",
         "notes": null
     },
     {
@@ -417,6 +1951,66 @@
         "notes": null
     },
     {
+        "id": 57,
+        "title": "Dust",
+        "author_fn": "Hugh",
+        "author_ln": "Howey",
+        "translator": null,
+        "publisher": "Mariner Books",
+        "pages": 468,
+        "publication_year": 2016,
+        "original_publication_year": 2013,
+        "tags": [
+            "Science-Fiction",
+            "Dystopian",
+            "Post-Apocalyptic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-544-83826-0",
+        "notes": null
+    },
+    {
+        "id": 56,
+        "title": "Wool",
+        "author_fn": "Hugh",
+        "author_ln": "Howey",
+        "translator": null,
+        "publisher": "Simon & Schuster",
+        "pages": 509,
+        "publication_year": 2013,
+        "original_publication_year": 2012,
+        "tags": [
+            "Science-Fiction",
+            "Dystopian",
+            "Post-Apocalyptic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4767-3395-1",
+        "notes": null
+    },
+    {
+        "id": 55,
+        "title": "Les Mis\u00e9rables",
+        "author_fn": "Victor",
+        "author_ln": "Hugo",
+        "translator": "Lee Fahnestock & Norman MacAfee",
+        "publisher": "Signet Classics",
+        "pages": 1468,
+        "publication_year": 2013,
+        "original_publication_year": 1862,
+        "tags": [
+            "French",
+            "Historical",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-451-41943-9",
+        "notes": null
+    },
+    {
         "id": 34,
         "title": "Harley Quinn: The Trials of Harley Quinn",
         "author_fn": "Sam",
@@ -434,6 +2028,67 @@
         "read": false,
         "reading": false,
         "isbn": "978-1-4012-9191-4",
+        "notes": null
+    },
+    {
+        "id": 83,
+        "title": "Brave New World",
+        "author_fn": "Aldous",
+        "author_ln": "Huxley",
+        "translator": null,
+        "publisher": "Harper Perennial",
+        "pages": 259,
+        "publication_year": 2006,
+        "original_publication_year": 1969,
+        "tags": [
+            "Science-Fiction",
+            "Dystopian",
+            "Classics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-06-085052-4",
+        "notes": null
+    },
+    {
+        "id": 136,
+        "title": "The Doors of Perception",
+        "author_fn": "Aldous",
+        "author_ln": "Huxley",
+        "translator": null,
+        "publisher": "Harper Perennial",
+        "pages": 185,
+        "publication_year": 2009,
+        "original_publication_year": 1954,
+        "tags": [
+            "Non-Fiction",
+            "Philosophy",
+            "Psychology"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-06-172907-2",
+        "notes": null
+    },
+    {
+        "id": 124,
+        "title": "Klara and the Sun",
+        "author_fn": "Kazuo",
+        "author_ln": "Ishiguro",
+        "translator": null,
+        "publisher": "Knopf Canada",
+        "pages": 303,
+        "publication_year": 2021,
+        "original_publication_year": 2021,
+        "tags": [
+            "Science-Fiction",
+            "Dystopian",
+            "Fantasy",
+            "Contemporary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-7352-8124-0",
         "notes": null
     },
     {
@@ -478,6 +2133,126 @@
         "notes": null
     },
     {
+        "id": 187,
+        "title": "The Metamorphosis & Other Stories",
+        "author_fn": "Franz",
+        "author_ln": "Kafka",
+        "translator": "Willa Muir & Edwin Muir",
+        "publisher": "Schocken Books",
+        "pages": 317,
+        "publication_year": 1995,
+        "original_publication_year": 1915,
+        "tags": [
+            "Fantasy",
+            "Philosophical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8052-1057-6",
+        "notes": null
+    },
+    {
+        "id": 186,
+        "title": "The Trial",
+        "author_fn": "Franz",
+        "author_ln": "Kafka",
+        "translator": "Willa Muir & Edwin Muir",
+        "publisher": "Schocken Books",
+        "pages": 281,
+        "publication_year": 1992,
+        "original_publication_year": 1925,
+        "tags": [
+            "Classics",
+            "Philosophical",
+            "Literary"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-8052-1040-8",
+        "notes": null
+    },
+    {
+        "id": 38,
+        "title": "Illuminae: The Illuminae Files_01",
+        "author_fn": "Amie",
+        "author_ln": "Kaufman",
+        "translator": null,
+        "publisher": "Ember",
+        "pages": 599,
+        "publication_year": 2017,
+        "original_publication_year": 2015,
+        "tags": [
+            "Science-Fiction",
+            "YA",
+            "Romance"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-49914-8",
+        "notes": null
+    },
+    {
+        "id": 39,
+        "title": "Obsidio: The Illuminae Files_03",
+        "author_fn": "Amie",
+        "author_ln": "Kaufman",
+        "translator": null,
+        "publisher": "Ember",
+        "pages": 615,
+        "publication_year": 2019,
+        "original_publication_year": 2018,
+        "tags": [
+            "Science-Fiction",
+            "YA",
+            "Romance"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-49922-3",
+        "notes": null
+    },
+    {
+        "id": 193,
+        "title": "The Great Mortality",
+        "author_fn": "John",
+        "author_ln": "Kelly",
+        "translator": null,
+        "publisher": "Harper Perennial",
+        "pages": 364,
+        "publication_year": 2006,
+        "original_publication_year": 2005,
+        "tags": [
+            "History",
+            "Non-Fiction",
+            "Science",
+            "Medicine"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-06-000693-8",
+        "notes": null
+    },
+    {
+        "id": 191,
+        "title": "How to Be an Antiracist",
+        "author_fn": "Ibram X.",
+        "author_ln": "Kendi",
+        "translator": null,
+        "publisher": "One World",
+        "pages": 305,
+        "publication_year": 2019,
+        "original_publication_year": 2019,
+        "tags": [
+            "Non-Fiction",
+            "Race",
+            "Politics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-525-50928-8",
+        "notes": null
+    },
+    {
         "id": 32,
         "title": "Harley Quinn: Preludes and Knock-Knock Jokes",
         "author_fn": "Karl",
@@ -495,6 +2270,774 @@
         "read": false,
         "reading": false,
         "isbn": "978-1-4012-1657-3",
+        "notes": null
+    },
+    {
+        "id": 208,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "author_fn": "Ken",
+        "author_ln": "Kesey",
+        "translator": null,
+        "publisher": "Penguin Classics",
+        "pages": 281,
+        "publication_year": 2003,
+        "original_publication_year": 1962,
+        "tags": [
+            "Classics",
+            "Psychology",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-118122-6",
+        "notes": null
+    },
+    {
+        "id": 113,
+        "title": "Flowers for Algernon",
+        "author_fn": "Daniel",
+        "author_ln": "Keyes",
+        "translator": null,
+        "publisher": "Mariner",
+        "pages": 311,
+        "publication_year": 1994,
+        "original_publication_year": 1959,
+        "tags": [
+            "Science-Fiction",
+            "Psychology"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-15-603008-3",
+        "notes": null
+    },
+    {
+        "id": 183,
+        "title": "11/22/63",
+        "author_fn": "Stephen",
+        "author_ln": "King",
+        "translator": null,
+        "publisher": "Pocket Books Fiction",
+        "pages": 1089,
+        "publication_year": 2016,
+        "original_publication_year": 2011,
+        "tags": [
+            "Historical",
+            "Science-Fiction",
+            "Horror",
+            "Time-Travel"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-5011-2060-2",
+        "notes": null
+    },
+    {
+        "id": 204,
+        "title": "The Devil in the White City",
+        "author_fn": "Erik",
+        "author_ln": "Larson",
+        "translator": null,
+        "publisher": "Vintage",
+        "pages": 447,
+        "publication_year": 2003,
+        "original_publication_year": 2003,
+        "tags": [
+            "Non-Fiction",
+            "True-Crime",
+            "History"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-375-72560-9",
+        "notes": null
+    },
+    {
+        "id": 42,
+        "title": "The Girl Who Kicked the Hornet's Nest",
+        "author_fn": "Stieg",
+        "author_ln": "Larsson",
+        "translator": "Reg Keeland",
+        "publisher": "Penguin Canada",
+        "pages": 860,
+        "publication_year": 2012,
+        "original_publication_year": 2007,
+        "tags": [
+            "Mystery",
+            "Crime",
+            "Thriller"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-317014-3",
+        "notes": null
+    },
+    {
+        "id": 41,
+        "title": "The Girl Who Played With Fire",
+        "author_fn": "Stieg",
+        "author_ln": "Larsson",
+        "translator": "Reg Keeland",
+        "publisher": "Penguin Canada",
+        "pages": 503,
+        "publication_year": 2011,
+        "original_publication_year": 2005,
+        "tags": [
+            "Mystery",
+            "Crime",
+            "Thriller"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-317013-6",
+        "notes": null
+    },
+    {
+        "id": 40,
+        "title": "The Girl with the Dragon Tattoo",
+        "author_fn": "Stieg",
+        "author_ln": "Larsson",
+        "translator": "Reg Keeland",
+        "publisher": "Penguin Canada",
+        "pages": 465,
+        "publication_year": 2011,
+        "original_publication_year": 2005,
+        "tags": [
+            "Mystery",
+            "Thriller",
+            "Crime"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-317012-9",
+        "notes": null
+    },
+    {
+        "id": 87,
+        "title": "The Complete Plays of D.H. Lawrence",
+        "author_fn": "D.H.",
+        "author_ln": "Lawrence",
+        "translator": null,
+        "publisher": "Heinemann",
+        "pages": 558,
+        "publication_year": 1965,
+        "original_publication_year": 1940,
+        "tags": [
+            "Plays"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-4344-0731-6",
+        "notes": null
+    },
+    {
+        "id": 66,
+        "title": "The Left Hand of Darkness",
+        "author_fn": "Ursula K.",
+        "author_ln": "Le Guin",
+        "translator": null,
+        "publisher": "ACE",
+        "pages": 341,
+        "publication_year": 2019,
+        "original_publication_year": 1969,
+        "tags": [
+            "Science-Fiction",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-441-47812-5",
+        "notes": null
+    },
+    {
+        "id": 165,
+        "title": "Caging Skies",
+        "author_fn": "Christine",
+        "author_ln": "Leunens",
+        "translator": null,
+        "publisher": "The Overlook Press",
+        "pages": 297,
+        "publication_year": 2020,
+        "original_publication_year": 2019,
+        "tags": [
+            "Historical",
+            "WWII"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-1-4197-4012-1",
+        "notes": null
+    },
+    {
+        "id": 94,
+        "title": "Songs of a Dead Dreamer and Grimscribe",
+        "author_fn": "Thomas",
+        "author_ln": "Ligotti",
+        "translator": null,
+        "publisher": "Penguin Classics",
+        "pages": 448,
+        "publication_year": 2015,
+        "original_publication_year": 1986,
+        "tags": [
+            "Short-Stories",
+            "Gothic",
+            "Horror"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-310776-7",
+        "notes": null
+    },
+    {
+        "id": 63,
+        "title": "Second Treatise of Government",
+        "author_fn": "John",
+        "author_ln": "Locke",
+        "translator": null,
+        "publisher": "Hackett Publishing Company Inc.",
+        "pages": 124,
+        "publication_year": 1980,
+        "original_publication_year": 1690,
+        "tags": [
+            "Philosophy",
+            "Politics",
+            "Liberalism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-915144-86-7",
+        "notes": null
+    },
+    {
+        "id": 207,
+        "title": "The Prince",
+        "author_fn": "Niccol\u00f2",
+        "author_ln": "Machiavelli",
+        "translator": "George Bull",
+        "publisher": "Penguin Classics",
+        "pages": 106,
+        "publication_year": 2003,
+        "original_publication_year": 1532,
+        "tags": [
+            "Philosophy",
+            "Non-Fiction",
+            "Politics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-0140-44915-9",
+        "notes": null
+    },
+    {
+        "id": 68,
+        "title": "1491: New Revelations of the Americas Before Columbus",
+        "author_fn": "Charles C.",
+        "author_ln": "Mann",
+        "translator": null,
+        "publisher": "Vintage Books",
+        "pages": 553,
+        "publication_year": 2011,
+        "original_publication_year": 2005,
+        "tags": [
+            "History",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4000-3205-1",
+        "notes": null
+    },
+    {
+        "id": 195,
+        "title": "Life of Pi",
+        "author_fn": "Yann",
+        "author_ln": "Martel",
+        "translator": null,
+        "publisher": "Seal Books",
+        "pages": 460,
+        "publication_year": 2006,
+        "original_publication_year": 2001,
+        "tags": [
+            "Fantasy",
+            "Adventure",
+            "Contemporary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-7704-3007-4",
+        "notes": null
+    },
+    {
+        "id": 91,
+        "title": "A Clash of Kings",
+        "author_fn": "George R.R.",
+        "author_ln": "Martin",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 761,
+        "publication_year": 2011,
+        "original_publication_year": 1999,
+        "tags": [
+            "Fantasy",
+            "Epic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-38169-6",
+        "notes": null
+    },
+    {
+        "id": 93,
+        "title": "A Dance with Dragons",
+        "author_fn": "George R.R.",
+        "author_ln": "Martin",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 1016,
+        "publication_year": 2011,
+        "original_publication_year": 2011,
+        "tags": [
+            "Fantasy",
+            "Epic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-80147-7",
+        "notes": null
+    },
+    {
+        "id": 90,
+        "title": "A Feast for Crows",
+        "author_fn": "George R.R.",
+        "author_ln": "Martin",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 1060,
+        "publication_year": 2011,
+        "original_publication_year": 2005,
+        "tags": [
+            "Fantasy",
+            "Epic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-58202-4",
+        "notes": null
+    },
+    {
+        "id": 89,
+        "title": "A Game of Thrones",
+        "author_fn": "George R.R.",
+        "author_ln": "Martin",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 835,
+        "publication_year": 2011,
+        "original_publication_year": 1996,
+        "tags": [
+            "Fantasy",
+            "Epic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-57340-4",
+        "notes": null
+    },
+    {
+        "id": 92,
+        "title": "A Storm of Swords",
+        "author_fn": "George R.R.",
+        "author_ln": "Martin",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 973,
+        "publication_year": 2011,
+        "original_publication_year": 2000,
+        "tags": [
+            "Fantasy",
+            "Epic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-38170-2",
+        "notes": null
+    },
+    {
+        "id": 180,
+        "title": "Capital: Volume 1",
+        "author_fn": "Karl",
+        "author_ln": "Marx",
+        "translator": "Ben Fowkes",
+        "publisher": "Penguin Classics",
+        "pages": 1141,
+        "publication_year": 1990,
+        "original_publication_year": 1867,
+        "tags": [
+            "Politics",
+            "Economics",
+            "Socialism",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-140-44568-8",
+        "notes": null
+    },
+    {
+        "id": 206,
+        "title": "The Communist Manifesto",
+        "author_fn": "Karl",
+        "author_ln": "Marx",
+        "translator": "Samuel Moore",
+        "publisher": "Penguin Classics",
+        "pages": 288,
+        "publication_year": 2002,
+        "original_publication_year": 1848,
+        "tags": [
+            "Politics",
+            "Socialism",
+            "Non-Fiction"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-140-44757-6",
+        "notes": null
+    },
+    {
+        "id": 129,
+        "title": "The Madman of Venice",
+        "author_fn": "Sophie",
+        "author_ln": "Masson",
+        "translator": null,
+        "publisher": "Delacorte Press",
+        "pages": 276,
+        "publication_year": 2009,
+        "original_publication_year": 2009,
+        "tags": [
+            "YA",
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-385-73843-9",
+        "notes": null
+    },
+    {
+        "id": 182,
+        "title": "I Am Legend",
+        "author_fn": "Richard",
+        "author_ln": "Matheson",
+        "translator": null,
+        "publisher": "Tor",
+        "pages": 312,
+        "publication_year": 2007,
+        "original_publication_year": 1995,
+        "tags": [
+            "Science-Fiction",
+            "Vampires",
+            "Horror"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-7653-5715-1",
+        "notes": null
+    },
+    {
+        "id": 146,
+        "title": "Blood Meridian or The Evening Redness in the West",
+        "author_fn": "Cormac",
+        "author_ln": "McCarthy",
+        "translator": null,
+        "publisher": "Vintage",
+        "pages": 351,
+        "publication_year": 1992,
+        "original_publication_year": 1985,
+        "tags": [
+            "Historical",
+            "Western",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-679-72875-7",
+        "notes": null
+    },
+    {
+        "id": 147,
+        "title": "1421: The Year China Discovered the World",
+        "author_fn": "Gavin",
+        "author_ln": "Menzies",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 650,
+        "publication_year": 2003,
+        "original_publication_year": 2002,
+        "tags": [
+            "History",
+            "Non-Fiction",
+            "China"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-81522-9",
+        "notes": null
+    },
+    {
+        "id": 78,
+        "title": "On Liberty, Utilitarianism and Other Essays",
+        "author_fn": "John Stuart",
+        "author_ln": "Mill",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 547,
+        "publication_year": 2015,
+        "original_publication_year": 1859,
+        "tags": [
+            "Philosophy",
+            "Liberalism",
+            "Utilitarianism",
+            "Ethics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-967080-2",
+        "notes": null
+    },
+    {
+        "id": 123,
+        "title": "A Canticle for Leibowitz",
+        "author_fn": "Walter M.",
+        "author_ln": "Miller Jr.",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 338,
+        "publication_year": 2007,
+        "original_publication_year": 1959,
+        "tags": [
+            "Science-Fiction",
+            "Post-Apocalyptic",
+            "Classics",
+            "Dystopian"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-27381-6",
+        "notes": null
+    },
+    {
+        "id": 205,
+        "title": "Paradise Lost",
+        "author_fn": "John",
+        "author_ln": "Milton",
+        "translator": null,
+        "publisher": "Penguin Classics",
+        "pages": 453,
+        "publication_year": 2003,
+        "original_publication_year": 1667,
+        "tags": [
+            "Poetry",
+            "Epic",
+            "Religion"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-140-42439-3",
+        "notes": null
+    },
+    {
+        "id": 127,
+        "title": "Utopia Avenue",
+        "author_fn": "David",
+        "author_ln": "Mitchell",
+        "translator": null,
+        "publisher": "Vintage",
+        "pages": 571,
+        "publication_year": 2021,
+        "original_publication_year": 2020,
+        "tags": [
+            "Historical",
+            "Fantasy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-345-80982-7",
+        "notes": null
+    },
+    {
+        "id": 97,
+        "title": "Jerusalem: The Biography",
+        "author_fn": "Simon Sebag",
+        "author_ln": "Montefiore",
+        "translator": null,
+        "publisher": "Vintage",
+        "pages": 650,
+        "publication_year": 2011,
+        "original_publication_year": 2011,
+        "tags": [
+            "Non-Fiction",
+            "History"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-307-28050-3",
+        "notes": null
+    },
+    {
+        "id": 108,
+        "title": "1Q84",
+        "author_fn": "Haruki",
+        "author_ln": "Murakami",
+        "translator": "Jay Rubin & Philip Gabriel",
+        "publisher": "Anchor Canada",
+        "pages": 1157,
+        "publication_year": 2013,
+        "original_publication_year": 2010,
+        "tags": [
+            "Magical-Realism",
+            "Fantasy"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-385-67802-5",
+        "notes": null
+    },
+    {
+        "id": 109,
+        "title": "Kafka on the Shore",
+        "author_fn": "Haruki",
+        "author_ln": "Murakami",
+        "translator": "Philip Gabriel",
+        "publisher": "Vintage",
+        "pages": 467,
+        "publication_year": 2005,
+        "original_publication_year": 2002,
+        "tags": [
+            "Magical-Realism",
+            "Fantasy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-4000-7927-8",
+        "notes": null
+    },
+    {
+        "id": 168,
+        "title": "Love in the Time of Cholera",
+        "author_fn": "Gabriel Garc\u00eda",
+        "author_ln": "M\u00e1rquez",
+        "translator": "Edith Grossman",
+        "publisher": "Vintage",
+        "pages": 348,
+        "publication_year": 1988,
+        "original_publication_year": 1985,
+        "tags": [
+            "Classics",
+            "Historial",
+            "Romance",
+            "Magical-Realism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-307-38973-2",
+        "notes": null
+    },
+    {
+        "id": 67,
+        "title": "One Hundred Years of Solitude",
+        "author_fn": "Gabriel Garc\u00eda",
+        "author_ln": "M\u00e1rquez",
+        "translator": "Gregory Rabassa",
+        "publisher": "Harper Perennial",
+        "pages": 417,
+        "publication_year": 2006,
+        "original_publication_year": 1967,
+        "tags": [
+            "Magical-Realism",
+            "Fantasy",
+            "Classics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-06-112009-1",
+        "notes": null
+    },
+    {
+        "id": 189,
+        "title": "The Mote in God's Eye",
+        "author_fn": "Larry",
+        "author_ln": "Niven",
+        "translator": null,
+        "publisher": "Pocket Books",
+        "pages": 560,
+        "publication_year": 1974,
+        "original_publication_year": 1974,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-671-74192-1",
+        "notes": null
+    },
+    {
+        "id": 145,
+        "title": "Born A Crime: Stories from a South African Childhood",
+        "author_fn": "Trevor",
+        "author_ln": "Noah",
+        "translator": null,
+        "publisher": "Spiegel & Grau",
+        "pages": 282,
+        "publication_year": 2019,
+        "original_publication_year": 2016,
+        "tags": [
+            "Autobiography",
+            "Humour"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-399-58819-8",
+        "notes": null
+    },
+    {
+        "id": 171,
+        "title": "1984",
+        "author_fn": "George",
+        "author_ln": "Orwell",
+        "translator": null,
+        "publisher": "Penguin",
+        "pages": 326,
+        "publication_year": 2008,
+        "original_publication_year": 1949,
+        "tags": [
+            "Classics",
+            "Dystopia",
+            "Politics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-141-03614-4",
+        "notes": null
+    },
+    {
+        "id": 170,
+        "title": "Animal Farm",
+        "author_fn": "George",
+        "author_ln": "Orwell",
+        "translator": null,
+        "publisher": "Penguin",
+        "pages": 95,
+        "publication_year": 2008,
+        "original_publication_year": 1945,
+        "tags": [
+            "Classics",
+            "Satire",
+            "Dystopia",
+            "Politics"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-141-03613-7",
         "notes": null
     },
     {
@@ -576,6 +3119,464 @@
         "notes": "Bought as gift for Ocean"
     },
     {
+        "id": 60,
+        "title": "Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo",
+        "author_fn": "",
+        "author_ln": "Plato",
+        "translator": "G. M. A. Grube",
+        "publisher": "Hackett Publishing Company Inc.",
+        "pages": 156,
+        "publication_year": 2002,
+        "original_publication_year": 1,
+        "tags": [
+            "Plato",
+            "Philosophy",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-87220-633-5",
+        "notes": "2nd Edition"
+    },
+    {
+        "id": 61,
+        "title": "Republic",
+        "author_fn": "",
+        "author_ln": "Plato",
+        "translator": "G. M. A. Grube",
+        "publisher": "Hackett Publishing Company Inc.",
+        "pages": 300,
+        "publication_year": 1992,
+        "original_publication_year": 1,
+        "tags": [
+            "Philosophy",
+            "Plato",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-87220-136-1",
+        "notes": null
+    },
+    {
+        "id": 175,
+        "title": "The Huntress",
+        "author_fn": "Kate",
+        "author_ln": "Quinn",
+        "translator": null,
+        "publisher": "William Morrow",
+        "pages": 531,
+        "publication_year": 2019,
+        "original_publication_year": 2019,
+        "tags": [
+            "Historical",
+            "WWII"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-06-274037-3",
+        "notes": null
+    },
+    {
+        "id": 181,
+        "title": "The Freemasons",
+        "author_fn": "Jasper",
+        "author_ln": "Ridley",
+        "translator": null,
+        "publisher": "Robinson",
+        "pages": 340,
+        "publication_year": 2008,
+        "original_publication_year": 1999,
+        "tags": [
+            "History",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-84529-678-0",
+        "notes": null
+    },
+    {
+        "id": 37,
+        "title": "Hollow City: The Second Novel of Miss Peregrine's Peculiar Children",
+        "author_fn": "Ransom",
+        "author_ln": "Riggs",
+        "translator": null,
+        "publisher": "Quirk Books",
+        "pages": 428,
+        "publication_year": 2015,
+        "original_publication_year": 2014,
+        "tags": [
+            "YA",
+            "Fantasy",
+            "Paranormal"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-59474-735-9",
+        "notes": null
+    },
+    {
+        "id": 36,
+        "title": "Miss Peregrine's Home for Peculiar Children",
+        "author_fn": "Ransom",
+        "author_ln": "Riggs",
+        "translator": null,
+        "publisher": "Quirk Books",
+        "pages": 382,
+        "publication_year": 2013,
+        "original_publication_year": 2011,
+        "tags": [
+            "YA",
+            "Fantasy",
+            "Paranormal"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-59474-603-1",
+        "notes": null
+    },
+    {
+        "id": 62,
+        "title": "On the Social Contract",
+        "author_fn": "Jean-Jacques",
+        "author_ln": "Rousseau",
+        "translator": "Donald A. Cress",
+        "publisher": "Hackett Publishing Company Inc.",
+        "pages": 190,
+        "publication_year": 1983,
+        "original_publication_year": 1762,
+        "tags": [
+            "French",
+            "Politics",
+            "Philosophy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-915145-56-1",
+        "notes": null
+    },
+    {
+        "id": 82,
+        "title": "Midnight's Children",
+        "author_fn": "Salman",
+        "author_ln": "Rushdie",
+        "translator": null,
+        "publisher": "Random House",
+        "pages": 533,
+        "publication_year": 2006,
+        "original_publication_year": 1981,
+        "tags": [
+            "Historical",
+            "Magical-Realism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-676-97065-4",
+        "notes": null
+    },
+    {
+        "id": 86,
+        "title": "Shame",
+        "author_fn": "Salman",
+        "author_ln": "Rushdie",
+        "translator": null,
+        "publisher": "Picador",
+        "pages": 305,
+        "publication_year": 1983,
+        "original_publication_year": 1983,
+        "tags": [
+            "Magical-Realism",
+            "Fantasy",
+            "Literary",
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-312-27093-3",
+        "notes": null
+    },
+    {
+        "id": 81,
+        "title": "The Satanic Verses",
+        "author_fn": "Salman",
+        "author_ln": "Rushdie",
+        "translator": null,
+        "publisher": "Random House",
+        "pages": 561,
+        "publication_year": 2008,
+        "original_publication_year": 1988,
+        "tags": [
+            "Magical-Realism",
+            "Fantasy",
+            "Religion",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8129-7671-7",
+        "notes": null
+    },
+    {
+        "id": 96,
+        "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+        "author_fn": "Oliver",
+        "author_ln": "Sacks",
+        "translator": null,
+        "publisher": "Touchstone",
+        "pages": 243,
+        "publication_year": 1998,
+        "original_publication_year": 1970,
+        "tags": [
+            "Psychology",
+            "Non-Fiction",
+            "Science"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-684-85394-9",
+        "notes": null
+    },
+    {
+        "id": 150,
+        "title": "The Catcher in the Rye",
+        "author_fn": "J.D.",
+        "author_ln": "Salinger",
+        "translator": null,
+        "publisher": "Little, Brown and Company",
+        "pages": 234,
+        "publication_year": 1979,
+        "original_publication_year": 1945,
+        "tags": [
+            "YA",
+            "Literary",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-316-76948-8",
+        "notes": null
+    },
+    {
+        "id": 107,
+        "title": "A Primate's Memoir",
+        "author_fn": "Robert M.",
+        "author_ln": "Sapolsky",
+        "translator": null,
+        "publisher": "Touchstone",
+        "pages": 304,
+        "publication_year": 2002,
+        "original_publication_year": 2001,
+        "tags": [
+            "Science",
+            "Biology",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-7432-0241-1",
+        "notes": null
+    },
+    {
+        "id": 156,
+        "title": "Behave: The Biology of Humans at our Best and Worst",
+        "author_fn": "Robert M.",
+        "author_ln": "Sapolsky",
+        "translator": null,
+        "publisher": "Penguin",
+        "pages": 790,
+        "publication_year": 2018,
+        "original_publication_year": 2017,
+        "tags": [
+            "Science",
+            "Non-Fiction",
+            "Biology"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-311091-0",
+        "notes": null
+    },
+    {
+        "id": 100,
+        "title": "Why Zebras Don't Get Ulcers",
+        "author_fn": "Robert M.",
+        "author_ln": "Sapolsky",
+        "translator": null,
+        "publisher": "St. Martin's Griffin",
+        "pages": 539,
+        "publication_year": 2004,
+        "original_publication_year": 1994,
+        "tags": [
+            "Science",
+            "Non-Fiction",
+            "Psychology",
+            "Biology"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8050-7369-0",
+        "notes": "Third Edition"
+    },
+    {
+        "id": 201,
+        "title": "Mr. Humble & Dr. Butcher",
+        "author_fn": "Brandy",
+        "author_ln": "Schillace",
+        "translator": null,
+        "publisher": "Simon & Schuster",
+        "pages": 303,
+        "publication_year": 2021,
+        "original_publication_year": 2021,
+        "tags": [
+            "Science",
+            "History",
+            "Medicine",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-9821-1377-3",
+        "notes": null
+    },
+    {
+        "id": 188,
+        "title": "Letters from a Stoic",
+        "author_fn": "",
+        "author_ln": "Seneca",
+        "translator": "Richard Mott Gummere",
+        "publisher": "Capstone",
+        "pages": 381,
+        "publication_year": 2021,
+        "original_publication_year": 65,
+        "tags": [
+            "Philosophy",
+            "Non-Fiction",
+            "Stoicism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-119-75135-9",
+        "notes": null
+    },
+    {
+        "id": 143,
+        "title": "A Midsummer Night's Dream",
+        "author_fn": "William",
+        "author_ln": "Shakespeare",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 275,
+        "publication_year": 2008,
+        "original_publication_year": 1600,
+        "tags": [
+            "Comedy",
+            "Plays"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-953586-6",
+        "notes": null
+    },
+    {
+        "id": 139,
+        "title": "As You Like It",
+        "author_fn": "William",
+        "author_ln": "Shakespeare",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 245,
+        "publication_year": 2008,
+        "original_publication_year": 1599,
+        "tags": [
+            "Plays",
+            "Comedy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-953615-3",
+        "notes": null
+    },
+    {
+        "id": 142,
+        "title": "King Lear",
+        "author_fn": "William",
+        "author_ln": "Shakespeare",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 321,
+        "publication_year": 2008,
+        "original_publication_year": 1606,
+        "tags": [
+            "Plays",
+            "Tragedy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-953582-8",
+        "notes": null
+    },
+    {
+        "id": 141,
+        "title": "The Tempest",
+        "author_fn": "William",
+        "author_ln": "Shakespeare",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 248,
+        "publication_year": 2008,
+        "original_publication_year": 1610,
+        "tags": [
+            "Plays",
+            "Tragedy",
+            "Comedy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-953590-3",
+        "notes": null
+    },
+    {
+        "id": 138,
+        "title": "The Winter's Tale",
+        "author_fn": "William",
+        "author_ln": "Shakespeare",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 295,
+        "publication_year": 2008,
+        "original_publication_year": 1623,
+        "tags": [
+            "Plays",
+            "Romance",
+            "Comedy"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-953591-0",
+        "notes": null
+    },
+    {
+        "id": 140,
+        "title": "Twelfth Night",
+        "author_fn": "William",
+        "author_ln": "Shakespeare",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 247,
+        "publication_year": 2008,
+        "original_publication_year": 1602,
+        "tags": [
+            "Plays",
+            "Comedy",
+            "Romance"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-953609-2",
+        "notes": null
+    },
+    {
         "id": 24,
         "title": "Frankenstein",
         "author_fn": "Mary",
@@ -594,6 +3595,161 @@
         "read": false,
         "reading": false,
         "isbn": "978-1-4351-5962-4",
+        "notes": null
+    },
+    {
+        "id": 112,
+        "title": "Hyperion",
+        "author_fn": "Dan",
+        "author_ln": "Simmons",
+        "translator": null,
+        "publisher": "Bantam Books",
+        "pages": 482,
+        "publication_year": 1995,
+        "original_publication_year": 1989,
+        "tags": [
+            "Science-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-28368-5",
+        "notes": null
+    },
+    {
+        "id": 192,
+        "title": "In the First Circle",
+        "author_fn": "Aleksandr",
+        "author_ln": "Solzhenitsyn",
+        "translator": "Harry T. Willetts",
+        "publisher": "Harper Perennial",
+        "pages": 741,
+        "publication_year": 2009,
+        "original_publication_year": 2009,
+        "tags": [
+            "Classics",
+            "Russian",
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-06-147901-4",
+        "notes": null
+    },
+    {
+        "id": 199,
+        "title": "The Thee Theban Plays: Antigone, Oedipus the King, Oedipus at Colonus",
+        "author_fn": "",
+        "author_ln": "Sophocles",
+        "translator": "Robert Fagles",
+        "publisher": "Penguin Classics",
+        "pages": 430,
+        "publication_year": 1986,
+        "original_publication_year": 1,
+        "tags": [
+            "Greek",
+            "Plays"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-044-425-4",
+        "notes": null
+    },
+    {
+        "id": 131,
+        "title": "Earth Abides",
+        "author_fn": "George R.",
+        "author_ln": "Stewart",
+        "translator": null,
+        "publisher": "Del Rey",
+        "pages": 345,
+        "publication_year": 2006,
+        "original_publication_year": 1949,
+        "tags": [
+            "Science-Fiction",
+            "Post-Apocalyptic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-345-48713-1",
+        "notes": null
+    },
+    {
+        "id": 144,
+        "title": "The Help",
+        "author_fn": "Kathryn",
+        "author_ln": "Stockett",
+        "translator": null,
+        "publisher": "Berkley Books",
+        "pages": 530,
+        "publication_year": 2009,
+        "original_publication_year": 2009,
+        "tags": [
+            "Historical"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-425-23220-0",
+        "notes": null
+    },
+    {
+        "id": 85,
+        "title": "The Histories",
+        "author_fn": "",
+        "author_ln": "Tacitus",
+        "translator": "W.H. Fyfe",
+        "publisher": "Oxford University Press",
+        "pages": 310,
+        "publication_year": 1999,
+        "original_publication_year": 69,
+        "tags": [
+            "History",
+            "Roman",
+            "Antiquity",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-19-283958-9",
+        "notes": null
+    },
+    {
+        "id": 135,
+        "title": "Vanity Fair",
+        "author_fn": "William Makepeace",
+        "author_ln": "Thackeray",
+        "translator": null,
+        "publisher": "Arcturus",
+        "pages": 719,
+        "publication_year": 2018,
+        "original_publication_year": 1847,
+        "tags": [
+            "Literary",
+            "Historical",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-78888-187-6",
+        "notes": null
+    },
+    {
+        "id": 190,
+        "title": "The 33",
+        "author_fn": "H\u00e9ctor",
+        "author_ln": "Tobar",
+        "translator": null,
+        "publisher": "Harper Perennial",
+        "pages": 309,
+        "publication_year": 2015,
+        "original_publication_year": 2014,
+        "tags": [
+            "Non-Fiction",
+            "History",
+            "Biography"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-44341-573-6",
         "notes": null
     },
     {
@@ -618,6 +3774,46 @@
         "notes": null
     },
     {
+        "id": 88,
+        "title": "Cain's Jawbone",
+        "author_fn": "",
+        "author_ln": "Torquemada",
+        "translator": null,
+        "publisher": "Unbound",
+        "pages": 100,
+        "publication_year": 2021,
+        "original_publication_year": 2019,
+        "tags": [
+            "Puzzle"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-80018-079-6",
+        "notes": null
+    },
+    {
+        "id": 158,
+        "title": "Fifth Sun",
+        "author_fn": "Camilla",
+        "author_ln": "Townsend",
+        "translator": null,
+        "publisher": "Oxford University Press",
+        "pages": 320,
+        "publication_year": 2021,
+        "original_publication_year": 2019,
+        "tags": [
+            "Non-Fiction",
+            "History",
+            "Mexico",
+            "Spanish",
+            "Aztec"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-19-757766-0",
+        "notes": null
+    },
+    {
         "id": 31,
         "title": "The Seven Deaths of Evelyn Hardcastle",
         "author_fn": "Stuart",
@@ -635,6 +3831,26 @@
         "read": false,
         "reading": false,
         "isbn": "978-1-4434-5746-0",
+        "notes": null
+    },
+    {
+        "id": 157,
+        "title": "The Body Keeps the Score",
+        "author_fn": "Bessel",
+        "author_ln": "van der Kolk, M.D.",
+        "translator": null,
+        "publisher": "Penguin",
+        "pages": 445,
+        "publication_year": 2014,
+        "original_publication_year": 2014,
+        "tags": [
+            "Non-Fiction",
+            "Psychology",
+            "Trauma"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-14-312774-1",
         "notes": null
     },
     {
@@ -678,6 +3894,25 @@
         "notes": null
     },
     {
+        "id": 179,
+        "title": "A Fire Upon the Deep",
+        "author_fn": "Vernor",
+        "author_ln": "Vinge",
+        "translator": null,
+        "publisher": "Tor",
+        "pages": 613,
+        "publication_year": 1993,
+        "original_publication_year": 1992,
+        "tags": [
+            "Science-Fiction",
+            "Space-Opera"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8125-1528-2",
+        "notes": null
+    },
+    {
         "id": 14,
         "title": "The Aeneid",
         "author_fn": "",
@@ -698,6 +3933,229 @@
         "read": false,
         "reading": false,
         "isbn": "978-0-14-310513-8",
+        "notes": null
+    },
+    {
+        "id": 50,
+        "title": "Cat's Cradle",
+        "author_fn": "Kurt",
+        "author_ln": "Vonnegut",
+        "translator": null,
+        "publisher": "The Dial Press",
+        "pages": 287,
+        "publication_year": 2010,
+        "original_publication_year": 1963,
+        "tags": [
+            "Classics",
+            "Science-Fiction",
+            "Humour",
+            "Satire",
+            "Science-Fiction"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-385-33348-1",
+        "notes": null
+    },
+    {
+        "id": 48,
+        "title": "Player Piano",
+        "author_fn": "Kurt",
+        "author_ln": "Vonnegut",
+        "translator": null,
+        "publisher": "The Dial Press",
+        "pages": 339,
+        "publication_year": 2006,
+        "original_publication_year": 1952,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Dystopia",
+            "Humour"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-385-33378-8",
+        "notes": null
+    },
+    {
+        "id": 51,
+        "title": "Slaughterhouse-Five (Or The Children's Crusade: A Duty-Dance with Death)",
+        "author_fn": "Kurt",
+        "author_ln": "Vonnegut",
+        "translator": null,
+        "publisher": "Dell Publishing",
+        "pages": 215,
+        "publication_year": 1991,
+        "original_publication_year": 1969,
+        "tags": [
+            "Classics",
+            "Historical",
+            "Science-Fiction",
+            "War"
+        ],
+        "read": true,
+        "reading": false,
+        "isbn": "978-0-440-18029-6",
+        "notes": null
+    },
+    {
+        "id": 49,
+        "title": "The Sirens of Titan",
+        "author_fn": "Kurt",
+        "author_ln": "Vonnegut",
+        "translator": null,
+        "publisher": "The Dial Press",
+        "pages": 326,
+        "publication_year": 2009,
+        "original_publication_year": 1959,
+        "tags": [
+            "Classics",
+            "Humour",
+            "Science-Fiction",
+            "Literary"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-385-33349-8",
+        "notes": null
+    },
+    {
+        "id": 159,
+        "title": "Infinite Jest",
+        "author_fn": "David Foster",
+        "author_ln": "Wallace",
+        "translator": null,
+        "publisher": "Back Bay Books",
+        "pages": 1079,
+        "publication_year": 2016,
+        "original_publication_year": 1996,
+        "tags": [
+            "Literary",
+            "Postmodernism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-316-06652-5",
+        "notes": null
+    },
+    {
+        "id": 162,
+        "title": "Genghis Khan and the Making of the Modern World",
+        "author_fn": "Jack",
+        "author_ln": "Weatherford",
+        "translator": null,
+        "publisher": "Broadway Books",
+        "pages": 312,
+        "publication_year": 2004,
+        "original_publication_year": 2004,
+        "tags": [
+            "History",
+            "Non-Fiction"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-609-80964-8",
+        "notes": null
+    },
+    {
+        "id": 154,
+        "title": "The Martian",
+        "author_fn": "Andy",
+        "author_ln": "Weir",
+        "translator": null,
+        "publisher": "Broadway Books",
+        "pages": 369,
+        "publication_year": 2014,
+        "original_publication_year": 2011,
+        "tags": [
+            "Science-Fiction",
+            "Space",
+            "Survival"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-553-41802-6",
+        "notes": null
+    },
+    {
+        "id": 177,
+        "title": "The War of the Worlds",
+        "author_fn": "H.G.",
+        "author_ln": "Wells",
+        "translator": null,
+        "publisher": "Alpha Editions",
+        "pages": 130,
+        "publication_year": 2017,
+        "original_publication_year": 1898,
+        "tags": [
+            "Science-Fiction",
+            "Classics"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-93-86101-22-8",
+        "notes": null
+    },
+    {
+        "id": 122,
+        "title": "To the Lighthouse",
+        "author_fn": "Virginia",
+        "author_ln": "Woolf",
+        "translator": null,
+        "publisher": "Arcturus",
+        "pages": 220,
+        "publication_year": 2020,
+        "original_publication_year": 1927,
+        "tags": [
+            "Literary",
+            "Classics",
+            "Feminism"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-1-83857-583-0",
+        "notes": null
+    },
+    {
+        "id": 132,
+        "title": "The Chrysalids",
+        "author_fn": "John",
+        "author_ln": "Wyndham",
+        "translator": null,
+        "publisher": "Penguin Books",
+        "pages": 200,
+        "publication_year": 1958,
+        "original_publication_year": 1955,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Dystopian"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-141-03846-9",
+        "notes": null
+    },
+    {
+        "id": 128,
+        "title": "The Day of the Triffids",
+        "author_fn": "John",
+        "author_ln": "Wyndham",
+        "translator": null,
+        "publisher": "The Modern Library",
+        "pages": 228,
+        "publication_year": 2003,
+        "original_publication_year": 1951,
+        "tags": [
+            "Science-Fiction",
+            "Classics",
+            "Horror",
+            "Post-Apocalyptic"
+        ],
+        "read": false,
+        "reading": false,
+        "isbn": "978-0-8129-6712-7",
         "notes": null
     }
 ]
